@@ -1,4 +1,4 @@
 cn: 
  springcloud: 
-          book:  9999
-          config: i am wesley
+          book: 
+            config: I am the git configuration file from dev environment. I will edit it. 88889106
