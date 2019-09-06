@@ -1,3 +1,4 @@
 cn: 
  springcloud: 
           book:  9999
+          config: i am wesley
