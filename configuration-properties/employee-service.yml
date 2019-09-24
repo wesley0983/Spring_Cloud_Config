@@ -1,1 +1,4 @@
-app.service-name = Employee Service (aaa
+cn: 
+ springcloud: 
+          book: 
+            config: weclome to 888
