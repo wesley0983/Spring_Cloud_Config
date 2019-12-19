@@ -1,4 +1,3 @@
-cn: 
- springcloud: 
-          book: 
-            config: weclome to employee-service-01hhh
+app: 
+ employee: 
+          name: weclome to employee-service-01hhh
